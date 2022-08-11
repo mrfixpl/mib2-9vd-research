@@ -10,3 +10,4 @@ Trying to power subwoofer from stock MIB2 main unit
 * https://www.drive2.ru/l/613971966948312999/
 * https://www.drive2.ru/l/611261670785849626/
 * https://mqb-blog.com/en/2022/02/21/sound-dataset/
+* https://github.com/NumberOneBot/mqb-mib2-sound-datasets
